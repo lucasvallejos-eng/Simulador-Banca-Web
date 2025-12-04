@@ -32,7 +32,7 @@ public class Interfaz_Ayuda extends javax.swing.JFrame implements VolverAtras {
     
     FondoPanel panel =new FondoPanel();
     /**
-     * Metodo constructor de Interfaz_Ayuda
+     *  Metodo constructor de Interfaz_Ayuda
      */
     public Interfaz_Ayuda() {
         initComponents();
