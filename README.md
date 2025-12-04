@@ -1,5 +1,5 @@
 - Simulador Sencillo de Banca Web
-  Este proyecto es un simulador básico de un sistema de banca web. Fue desarrollado como un trabajo grupal para [Menciona el Nombre de la Materia, ej: Programación Web, Algoritmos 3] con el objetivo de modelar las   funcionalidades principales de una cuenta bancaria.
+  Este proyecto es un simulador básico de un sistema de banca web. Fue desarrollado como un trabajo grupal para Lenguaje de Programacion 2 con el objetivo de modelar las   funcionalidades principales de una cuenta bancaria.
   
 - Funcionalidades Simuladas:
 El simulador permite realizar las siguientes operaciones básicas una vez iniciado sesión:
