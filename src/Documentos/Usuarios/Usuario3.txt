@@ -1,0 +1,15 @@
+Nombre: Raquel
+Apellido: Torres
+CI: 5777063
+Fecha de Nacimiento: 21/06/2003
+Sexo: Masculino
+Direccion: Poli
+Tipo: 1
+Nro de Cuenta: 5777063
+Pin Transaccion: 7777
+
+Pin de acceso: 1234                
+
+Fondos: 126000              
+
+

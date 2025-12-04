@@ -1,0 +1,14 @@
+IdServicio: 2
+IdEntidad: 000001
+Nombre: Personal
+Servicio: Pago Internet
+
+Cuentas:
+4454105
+5439993
+1271656
+--------------------
+CantidadDeuda:
+2000000
+1995000             
+1982677             

@@ -1,0 +1,13 @@
+Nombre: Leonardo
+Apellido: Cano
+CI: 4454105
+Fecha de Nacimiento: 20/05/1999
+Sexo: Masculino
+Direccion: Poli
+Tipo: 1
+Nro de Cuenta: 4454105
+Pin Transaccion: 1234
+
+Pin de acceso: 4454105             
+Fondos: 94000               
+Fondos: 308610              

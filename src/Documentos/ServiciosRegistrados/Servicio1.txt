@@ -1,0 +1,15 @@
+IdServicio: 1
+IdEntidad: 000001
+Nombre: Personal
+Servicio: Pago Telefonia
+
+Cuentas:
+4454105
+5439993
+1271656
+--------------------
+CantidadDeuda:
+1999965             
+1999355             
+1955821             
+--------------------

@@ -1,0 +1,15 @@
+IdServicio: 4
+IdEntidad: 000002
+Nombre: Facultad
+Servicio: Deuda Matricula
+
+Cuentas:
+4454105
+5439993
+1271656
+--------------------
+CantidadDeuda:
+2000000
+15000000
+3500000
+--------------------

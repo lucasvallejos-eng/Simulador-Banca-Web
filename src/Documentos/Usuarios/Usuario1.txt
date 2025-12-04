@@ -1,0 +1,14 @@
+Nombre: Lucas 
+Apellido: Vallejos
+CI: 5439993
+Fecha de Nacimiento: 09/09/2003
+Sexo: Masculino
+Direccion: Poli
+Tipo: 1
+Nro de Cuenta: 5439993
+Pin Transaccion: 2222
+
+Pin de acceso: 5555                
+
+Fondos: 91677               
+

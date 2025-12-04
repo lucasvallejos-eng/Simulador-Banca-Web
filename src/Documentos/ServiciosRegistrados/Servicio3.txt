@@ -1,0 +1,15 @@
+IdServicio: 3
+IdEntidad: 000001
+Nombre: Personal
+Servicio: Pago Cable
+
+Cuentas:
+4454105
+5439993
+1271656
+--------------------
+CantidadDeuda:
+2000000
+15000000
+3500000
+--------------------
