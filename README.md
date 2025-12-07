@@ -1,3 +1,8 @@
+- Tecnologías Utilizadas
+      -Lenguaje: Java
+- **IDE:** NetBeans
+- **Librerías:** JGraphT (jgrapht-core-1.5.1, jgrapht-io-1.5.1)
+- **Control de Versiones:** Git / GitHub
 - Simulador Sencillo de Banca Web
   Este proyecto es un simulador básico de un sistema de banca web. Fue desarrollado como un trabajo grupal para Lenguaje de Programacion 2 con el objetivo de modelar las   funcionalidades principales de una cuenta bancaria.
   
